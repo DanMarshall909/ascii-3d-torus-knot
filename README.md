@@ -1,5 +1,7 @@
 # ASCII 3D Torus Knot Renderer
 
+<img width="1822" height="1084" alt="image" src="https://github.com/user-attachments/assets/a3f51fdd-de8e-4828-be23-939538e18f6a" />
+
 A mesmerizing 3D torus knot renderer using Spectre.Console for colorful ASCII/pixel art visualization in the terminal.
 
 ## Features
